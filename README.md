@@ -1,15 +1,14 @@
-
 ## 🆒 Features
 - ✅ ქართულ
 - ✅ 24/7
 - ✅ მარტივი გამოყენებადი
 - 
 `pip install Python3.8`
-
+----------------------
+აუცილებლები ქვემოთ
+----------------------
 `pip install pystyle`
 
-`git clone https://github.com/iodo-official/urliododoss`
-
-`cd iododdos`
+`pip install random_user_agent`
 
 `python3 iodourl.py`
